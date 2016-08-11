@@ -1,0 +1,7 @@
+{
+	"name": 			"crate-scale-checker",
+	"version":			"0.0.0",
+	"dependencies": 	{
+		"node-kubernetes-client": ""
+	}
+}
