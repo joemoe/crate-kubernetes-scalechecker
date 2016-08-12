@@ -1,11 +1,11 @@
 {
 	"interval": 	5000,
-	"host": 		"127.0.0.1:8001",
+	"host": 		"",
 	"protocol": 	"http",
 	"version": 		"v1",
 	"namespace":	"default",
-	"token": 		"AIzaSyCc-z6LqKC1VwGqLWSeWAJAZ5MkOLEHheY",
-	"crateHost": 	"130.211.105.90",
+	"token": 		"",
+	"crateHost": 	"",
 	"cratePort": 	"4200",
 	"crateRoute": 	"/_sql"
 }
